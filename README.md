@@ -2,6 +2,8 @@
 
 You've reached the page of a career changing, roller skating skating, Star Wars loving, language learning, full stack software engineer! - That's me!
 
+⚠️ under construction ⚠️
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=djfurniss.djfurniss&color=7D4AC1)
 
 <!-- TODO: add later -->
