@@ -9,11 +9,16 @@ You've reached the page of a career changing, roller skating skating, Star Wars 
 <!-- TODO: add later -->
 ### 🔭 I’m currently working on ...
 - my app grouPlay. Check out the repo [here](https://github.com/djfurniss/grouPlayApp)!
+- my mental health
+- refreshing my basic frontend skills 
 
 ### 🌱 I’m currently learning ...
 - Python
+- How to power thorugh imposter syndrome 
 
 ### 🤔 I’m looking for help with ...
+- prepping for interviews
+- finding sustainable projects to build
 - finding a job
 
 ### 📫 How to reach me: ...
