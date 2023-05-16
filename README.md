@@ -1,5 +1,5 @@
 ## Well, hello there 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=*.visitor-badge&left_color=red&right_color=pink)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=*.visitor-badge&left_color=red&right_color=pink) -->
 
 You've reached the page of a career changing, roller skating skating, Star Wars loving, language learning, full stack software engineer! - That's me!
 
