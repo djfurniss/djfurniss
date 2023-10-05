@@ -22,7 +22,7 @@ You've reached the page of a career changing, roller skating skating, Star Wars 
 - finding a job
 
 ### 📫 How to reach me: ...
-<a href="https://twitter.com/dfurniss_dev"><img src="https://d4.alternativeto.net/Es1ft4p1-QC2tdJ6bnmT3Ew-cI4aIpWBH8e2So8VbwQ/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90d2l0dGVyXzE1NDkyMC5wbmc.png" width=50/>
+<a href="https://twitter.com/dfurniss_dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" width=50/>
 </a>
 <a href="https://www.linkedin.com/in/denasia-furniss/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width=50/>
 </a> 
